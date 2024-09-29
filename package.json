@@ -1,0 +1,23 @@
+{
+  "name": "zardkat",
+  "version": "1.0.0",
+  "description": "hardhat-circom template",
+  "main": "index.js",
+  "scripts": {
+   "circum": "npx hardhat circom --verbose",
+   "deploy": "npx hardhat run  scripts/deploy.ts"
+  },
+  "keywords": [],
+  "author": "gmchad <chad@ethsd.org>",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "ffjavascript": "^0.2.57",
+    "hardhat": "^2.12.7"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "hardhat-circom": "^3.3.2",
+    "snarkjs": "^0.6.3"
+  }
+}
