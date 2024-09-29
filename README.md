@@ -167,6 +167,4 @@ For development, you can use the `--deterministic` flag to avoid generating new 
 
 ---
 
-**Author:** Akash, [akashlakhwan2329@gmail.com](mailto:akashlakhwan2329@gmail.com)
-
-**Loom Video Demonstration:** [Watch Here](https://www.loom.com/share/5cfb4f31c74749ddab067e071bd2453f?t=1&sid=f8bb1789-2eb4-4eb6-a0c9-0076b9c7aad1)
+**Author:** Karanveer Mittal
